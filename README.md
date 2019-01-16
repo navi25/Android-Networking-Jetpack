@@ -5,7 +5,7 @@ Android Networking JetPack is collection of simple tutorials and examples to eas
 * [Retrofit with Kotlin Coroutine](https://github.com/navi25/Android-Networking-Jetpack#retrofitkotlindeferred)
 
 
-### RetrofitKotlinDeferred
+## RetrofitKotlinDeferred
 Simple to Complex Tutorial for making network calls in Android using Retrofit2, Kotlin and its Deferred Type
 
 [For detailed explanation of code, visit here.](https://medium.com/@navendra/android-networking-in-2019-retrofit-with-kotlins-coroutines-aefe82c4d777)
